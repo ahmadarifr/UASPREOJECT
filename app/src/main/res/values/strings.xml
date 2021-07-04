@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Alarm</string>
+
+    <!-- Main Activity/Fragment -->
+    <string name="empty_view_text">Press the Floating Action Button to add an alarm!</string>
+
+    <!-- Edit Alarm Activity/Fragment -->
+    <string name="time">Waktu</string>
+    <string name="label">Label</string>
+    <string name="days">Hari</string>
+    <string name="edit_alarm">Edit Alarm</string>
+    <string name="add_alarm">Tambah Alarm</string>
+    <string name="add_label_hint">Tambah label!</string>
+    <string name="update_complete">Simpan Perubahan</string>
+    <string name="update_failed">Gagal Update</string>
+    <string name="delete_complete">Alarm Dihapus</string>
+    <string name="delete_failed">Gagal Hapus</string>
+    <string name="delete_dialog_title">Konfirmasi Hapus</string>
+    <string name="delete_dialog_content">Yakin Hapus Alarm Ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <!-- Edit Alarm Menu -->
+    <string name="action_save">Simpan</string>
+    <string name="action_delete">Hapus</string>
+
+    <!-- Alarm Landing Page Activity/Fragment -->
+    <string name="launch_main_activity">Buka Aplikasi</string>
+    <string name="dismiss">Hiraukan</string>
+
+    <!-- Days -->
+    <string name="monday">Senin</string>
+    <string name="tuesday">Selasa</string>
+    <string name="wednesday">Rabu</string>
+    <string name="thursday">Kamis</string>
+    <string name="friday">Jumat</string>
+    <string name="saturday">Sabtu</string>
+    <string name="sunday">Minggu</string>
+
+    <!-- Notification -->
+    <string name="channel_name">My Alarm</string>
+
+</resources>
